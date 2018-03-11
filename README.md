@@ -13,6 +13,6 @@ run `node bamazonCustomer.js`  i have screenshots that will guide you threw expe
 
 here is the database before we get started with our aplication.
 
-     ![Optional Text](../master/images/database1.png)
+     ![Optional Text](../images/database1.png)
 
 
