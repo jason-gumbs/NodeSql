@@ -58,12 +58,12 @@ Here is were we use two tables and do an inner join
 
 
 
-![hey](images/bmanager4.PNG)
+![hey](images/bmanager5.PNG)
 
 
 
 
-![hey](images/bmanager5.PNG)![hey](images/department2.PNG)
+![hey](images/bmanager6.PNG)![hey](images/department2.PNG)
 
 
 
