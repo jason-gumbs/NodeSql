@@ -23,6 +23,12 @@ Here are the results when you run `node bamazonCustomer.js`
 ![hey](images/database2.PNG)
 
 
+Here are the results if you enter a quantity over what is in stock
+![hey](images/error.PNG)
+
+
+
+
 
 
 
