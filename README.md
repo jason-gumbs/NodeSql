@@ -24,7 +24,24 @@ Here are the results when you run `node bamazonCustomer.js`
 
 
 Here are the results if you enter a quantity over what is in stock
+
 ![hey](images/error.PNG)
+
+### Bamazon Manager
+
+run `node bamazonManager.js`  i have screenshots that will guide you threw expected results. See Below.
+
+
+![hey](images/bmanager.PNG)
+
+![hey](images/bmanager2.PNG)
+
+![hey](images/bmanager3.PNG)
+![hey](images/database3.PNG)
+
+![hey](images/bmanager4.PNG)
+![hey](images/database4.PNG)
+
 
 
 

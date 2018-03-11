@@ -150,16 +150,18 @@ inquirer
     var query = connection.query(
     "INSERT INTO products SET ?",
     {
-      product_name:answer.product_name,
+      product_name: answer.product_name,
       department_name: answer.department_name,
       price: answer.price,
-      stock_quantity: answer.quantity
+      stock_quantity: answer.quantity,
+      product_sales: 0
     },
     function(err, res) {
-      console.log(res.affectedRows + " product Created!\n");
+      console.log(" product Created!\n");
       // Call updateProduct AFTER the INSERT completes
       
    
      console.log(query.sql);
+      connection.end();
  })
 });}
