@@ -48,6 +48,27 @@ run `node bamazonManager.js`  i have screenshots that will guide you threw expec
 ![hey](images/bmanager4.PNG)
 ![hey](images/database4.PNG)
 
+### Bamazon upervisor
+
+run `node bamazonSupervisor.js`  i have screenshots that will guide you threw expected results. See Below.
+
+Here is were we use two tables and do an inner join
+
+![hey](images/database3.PNG)![hey](images/department1.PNG)
+
+
+
+![hey](images/bmanager4.PNG)
+
+
+
+
+![hey](images/bmanager5.PNG)![hey](images/department2.PNG)
+
+
+
+
+
 
 
 
