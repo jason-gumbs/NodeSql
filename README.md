@@ -13,5 +13,5 @@ run `node bamazonCustomer.js`  i have screenshots that will guide you threw expe
 
 here is the database before we get started with our aplication.
 
-[hey](../images/database1.png)
+[hey](/images/database1.png)
 
