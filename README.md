@@ -16,6 +16,14 @@ here is the database before we get started with our aplication.
 ![hey](images/database1.PNG)
 
 
+Here are the results when you run `node bamazonCustomer.js`
+
+
+![hey](images/bamazoncustomer.PNG)
+![hey](images/database2.PNG)
+
+
+
 
 
 

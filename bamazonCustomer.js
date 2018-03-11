@@ -46,13 +46,14 @@ inquirer
    connection.query(query, { item_id: answer.id }, function(err, results) {
     if (err) throw err;
     
+    
     if(answer.quantity  > results[0].stock_quantity ){
       console.log("Insufficient quantity!")
      }
      else{
       removeInventory(answer);
       totalSales(answer);
-      console.log("your Purchase will cost you $"+results[0].price);
+      console.log("your Purchase will completed");
      }
     connection.end();
       });
